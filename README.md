@@ -1,6 +1,11 @@
 # Gen2Epi
 An automated whole-genome sequencing pipeline for linking full genomes to antimicrobial susceptibility and molecular epidemiological data in Neisseria gonorrhoeae.
 
+# Alternative links
+
+https://github.com/DillonLab/Gen2Epi
+ftp://www.cs.usask.ca/pub/combi 
+
 # Requirements
 
 1. Perl V5.16.3 or higher
@@ -113,9 +118,12 @@ If you have thousands of samples then the input file in the above-mentioned form
 
 “makeblastdb –in MLST-Genes.fasta –db nucl”
 
+# Contacts
 
+Dr. Reema Singh: res498@usask.ca ; res498@mail.usask.ca 
 
+# Citation
 
-
+Singh R, Dillon JA, Demczuk W, Kusalik A. Gen2Epi: an automated whole-genome sequencing pipeline for linking full genomes to antimicrobial susceptibility and molecular epidemiological data in Neisseria gonorrhoeae. BMC genomics 2019;20(1):1-1.
         
 
