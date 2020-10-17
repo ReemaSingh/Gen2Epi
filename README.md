@@ -51,3 +51,71 @@ An automated whole-genome sequencing pipeline for linking full genomes to antimi
         “/home/user/Desktop/Test_DATA”
         
 5. Copy the Gen2Epi_Scripts folder in your current working directory.
+
+# How to use
+
+1. Prepare a tab-limited input file describing the full name and the paired-end read files, e.g.,
+
+        WHO-F WHO-F_S2_L001_R1_001.fastq.gz WHO-F_S2_L001_R2_001.fastq.gz
+        WHO-G WHO-G_S3_L001_R1_001.fastq.gz WHO-G_S3_L001_R2_001.fastq.gz
+        WHO-K WHO-K_S4_L001_R1_001.fastq.gz WHO-K_S4_L001_R2_001.fastq.gz
+        WHO-L WHO-L_S5_L001_R1_001.fastq.gz WHO-L_S5_L001_R2_001.fastq.gz
+        
+First column = Sample ID
+
+Second Column = First fastq read pair
+
+Third Column = Second fastq read pair
+
+Note: Make sure to put all the fastq reads in the same folder.
+
+If you have thousands of samples then the input file in the above-mentioned format can be prepared by using the following script:      
+
+        “perl Prepare_Input.pl <path-to-fastq-files> <number e.g 12>”
+        
+2. For Quality Check and Trimming
+
+        "perl WGS_SIBP_P1.pl /home/user/Desktop/Test_DATA /home/user/Desktop/Test_DATA/WHO_Data both 3 3 4:15 30”
+        
+3. For De-novo assembly   
+
+        “perl WGS_SIBP_P2.pl /home/user/Desktop/Test_DATA/Input Trimming trimmed 2”
+        
+4. For Chromosome Scaffolding 
+
+        “Perl WGS_SIBP_P3-Chr-C1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Full_Reference_genome/Chromosome /home/user/Desktop/Gen2Epi_Scripts/Chrom_AssemblyTrimmedReads /home/user/Desktop/Test_DATA/WHO_Genome_Annotation/Chromosome 1 TXT”
+        
+5. For Plasmid-type identification 
+
+        “Perl WGS_SIBP_P3-Plas_C1.pl /home/user/Desktop/Test_DATA/Input Plasmid_AssemblyTrimmedReads 1 /home/user/Desktop/Test_DATA/Plasmid.fasta”
+        
+6. For Epidemiological analysis and AMR prediction of the assembled scaffolds: Please make sure to delete the existing output file before running the following commands. 
+
+      a. NG-MAST
+      
+        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Chr_Scaffolds NGMAST”
+        
+      b. NG-MAST
+      
+        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Chr_Scaffolds MLST MLST-Genes.fasta MLST_alleles.fasta pubMLST_profile.txt”
+
+        Please Note: In case you encounter “BLAST database index” error then make sure to build the blast database for “MLST-Genes.fasta” using the following command:
+        
+     c. NG-MAST
+     
+        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Chr_Scaffolds ngstar AMR-Genes-NgStar.fasta AMR-Genes-NgStar-alleles.fasta”
+
+     d. Chromosome-mediated Tetracycline Resistance
+     
+        “perl TetRes.pl rpsJ.fasta Chr_Scaffolds/All_Sequences TetResOut”
+        “perl SeqProt.pl TetResOut”
+
+
+“makeblastdb –in MLST-Genes.fasta –db nucl”
+
+
+
+
+
+        
+
