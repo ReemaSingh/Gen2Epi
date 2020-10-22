@@ -1,0 +1,165 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+0.001	penA WT NonMosaic	2001-01-25	Canada		F	Negative		Agar Dilution	0.063	0.001	0.025	0.063	0.25	0.008	16	0.5	Cervix	
+0.002	penA WT NonMosaic	2017-11-06	Unknown		U	Unknown												
+0.003	penA WT NonMosaic	2017-11-06	Unknown		U	Unknown												
+0.004	penA WT NonMosaic	2017-11-06	Unknown		U	Unknown												
+0.005	penA WT NonMosaic	2017-11-06	Unknown		U	Unknown												
+0.006	penA WT NonMosaic	2017-11-06	Unknown		U	Unknown												
+0.007	penA WT NonMosaic	2017-11-08	Unknown		U	Unknown												
+0.008	penA WT NonMosaic	2017-11-08	Unknown		U	Unknown												
+1.001	Type I Non-Mosaic	2001-01-01	Canada		M	Negative		Agar Dilution	0.125	0.004	0.002	0.004	0.5	0.063	16	1	Penis/Urethra	
+1.002	Type I Non-Mosaic	0000-00-00																FA1090
+1.003	Type I Non-Mosaic	2010-02-03	Canada	22	F	Negative		Agar Dilution	0.032	0.008	0.008	0.002	0.125	0.063	8	0.125		
+1.004	penA Type I NonMosaic	2017-11-08	Unknown		U	Unknown												
+1.005	penA Type I NonMosaic	2017-11-08	Unknown		U	Unknown												
+1.006	penA Type I NonMosaic	2017-11-08	Unknown		U	Unknown												
+1.007	penA Type I NonMosaic	2017-11-08	Unknown		U	Unknown												
+1.008	Type I NonMosaic	2018-01-19	Sweden		U	Unknown												
+2.001	Type II Non-Mosaic	1997-01-01	Thialand			Negative	TRNG	Agar Dilution	0.25	0.016	0.008	0.125	1	0.5	16	32		WHO-G
+2.002	Type II Non-Mosaic	2004-10-19	Canada	37	M	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	>=512	0.032	0.016	4	64	64	16	64	Penis/Urethra	
+2.003	Type II Non-Mosaic	2010-07-28	Canada	53	M	Negative		Agar Dilution	0.5	0.016	0.016	0.125	1	0.25	32	1	Penis/Urethra	
+2.004	Type II Non-Mosaic	2008-04-15	Netherlands	42	M	Unknown		Agar Dilution	4	0.004	0.008	0	0	0	0	0	Rectal	
+2.005	Type II Non-Mosaic	2011-10-20	Netherlands	30	M	Unknown		E-Test	0.5	0.003	0.008	0	0	0	0	0	Urethra	
+2.006	PenA Type II Non-Mosaic	2011-10-27	Netherlands	19	F	Unknown		Agar Dilution	0.5	0.008	0.032						Cervix	
+2.007	penA Type II NonMosaic	2017-10-26			U	Unknown												
+2.008	penA Type II NonMosaic	2017-11-03	Unknown		U	Unknown												
+2.009	penA Type II NonMosaic	2017-11-06	Unknown		U	Unknown												
+2.010	penA Type II NonMosaic	2017-11-06			U	Unknown												
+2.011	penA Type II NonMosaic	2017-11-06			U	Unknown												
+2.012	penA Type II NonMosaic	2017-11-08	Unknown		U	Unknown												
+2.013	penA Type II NonMosaic	2017-11-08	Unknown		U	Unknown												
+2.014	penA Type II NonMosaic	2017-11-08	Unknown		U	Unknown												
+2.015	penA Type II; NonMosaic	2018-01-18	Sweden		U	Unknown												
+2.016	Type II NonMosaic	2018-01-19	Sweden		U	Unknown												
+2.017	penA Type II; NonMosaic	2018-03-01	Sweden		U	Unknown												
+2.018	penA Type II; NonMosaic	2018-03-01	Sweden		U	Unknown												
+2.019	PenA Type II NonMosaic	2008-07-04	Italy		U	Unknown												
+3.001	Type III Non-Mosaic	2008-01-21	Canada	36	F	Negative	CipR/CMRNG	Agar Dilution	16	0.063	0.063	16	128	4	16	2		
+4.001	Type IV Non-Mosaic	2002-07-18	Canada		M	Negative		Agar Dilution	2	0.016	0.032	0.125	16	1	32	2	Penis/Urethra	
+5.001	Type V Non-Mosaic	2005-01-17	Canada	34	M	Negative	CipR/EryR	Agar Dilution	0.25	0.016	0.008	4	2	0.5	16	1		
+5.002	Type V Non-Mosaic	2005-11-16	Canada	18	M	Negative	CipR/CMRNG	Agar Dilution	8	0.016	0.032	16	64	2	16	4		
+5.003	Type V Non-Mosaic	0000-00-00	Korea															NCCP11945
+5.004	Type V Non-Mosaic	2010-11-19	Canada	43	M	Negative	CipR	Agar Dilution	1	0.032	0.016	4	4	1	16	2		
+7.001	Type VII Non-Mosaic	1996-01-01	Asia			Negative	CMRNG	Agar Dilution	0.5	0.25	0.125	32	2	2	16	4		WHO-L
+9.001	Type IX Non-Mosaic	2001-06-01	Canada		F	Negative		Agar Dilution	2	0.016	0.016	0.032	8	1	32	4	Cervix	
+9.002	penA Type IX NonMosaic	2017-11-02	Unknown		U	Unknown												
+9.003	penA Type IX NonMosaic	2017-11-08	Unknown		U	Unknown												
+9.004	penA Type IX NonMosaic	2017-11-08	Unknown		U	Unknown												
+9.005	penA Type IX NonMosaic	2017-11-08	Unknown		U	Unknown												
+9.006	penA Type IX NonMosaic	2017-11-08	Unknown		U	Unknown												
+10.001	Type X Mosaic	2003-01-01	Japan			Negative	CMRNG	Agar Dilution	0.25	0.5	0.064	32	1	2	16	2		
+10.002	penA Type X Mosaic	2017-11-03	Unknown		U	Unknown												
+11.001	penA Type XI NonMosaic	2017-11-02	Unknown		U	Unknown												
+12.001	Type XII Non-Mosaic	1991-01-01	Canada			Positive	PPNG	Agar Dilution	0.25	0.016	0.004	0.008	1	32	1024	1		WHO-O
+12.002	Type XII Non-Mosaic	2008-01-09	Canada	18	F	Negative	CipR/CMRNG	Agar Dilution	8	0.032	0.032	16	64	4	16	4		
+12.003	Type XII Non-Mosaic	2012-12-10	Canada		M	Negative	CipR/CMRNG	Agar Dilution	>=512	0.016	0.032	32	64	4	16	2	Rectum	
+12.004	Type XII Non-Mosaic	2006-06-15	Netherlands	37	M	Unknown		Agar Dilution	0.38	0.016	0.016	0	0	0	0	0	Rectal	
+12.005	penA Type XII NonMosaic	2017-11-03	Unknown		U	Unknown												
+12.006	penA Type XII NonMosaic	2017-11-08	Unknown		U	Unknown												
+12.007	penA Type XII; NonMosaic	2018-03-01	Sweden		U	Unknown												
+13.001	Type XIII Non-Mosaic	1996-01-01	Canada		M	Negative	CMRNG	Agar Dilution	0.25	0.125	0.125	0.5	2	2	32	2	Penis/Urethra	
+14.001	Type XIV Non-Mosaic	2013-12-31	Canada		M	Negative	TRNG	Agar Dilution	0.125	0.008	0.004	0.004	0.5	0.25	16	32	Rectum	
+14.002	Type XIV Non-Mosaic	2014-07-30	Canada	32	M	Negative	EryR/TetR	Agar Dilution	1	0.008	0.008	0.008	8	0.5	32	2	Penis/Urethra	
+14.003	Type XIV Non-Mosaic	2015-07-02	Canada		U	Negative	EryR	Agar Dilution	0.5	0.008	0.008	0.004	8	0.05	32	1	Pharyngeal	
+14.004	penA Type XIV	2017-11-08	Unknown		U	Unknown												
+15.001	Type XV Non-Mosaic	1991-01-01	Canada			Negative		Agar Dilution	0.125	0.016	0.002	0.004	0.5	0.032	32	0.25		WHO-F
+15.002	Type XV Non-Mosaic	2012-01-01	Canada	36	M	Negative		Agar Dilution	0.25	0.004	0.002	0.004	1	0.125	32	1	Penis/Urethra	
+15.003	penA Type XV NonMosaic	2017-11-06	Unknown		U	Unknown												
+15.004	penA Type XV NonMosaic	2017-11-08	Unknown		U	Unknown												
+17.001	Type XVII Non-Mosaic	1997-01-01	Canada		M	Negative	CipR/CMRNG	Agar Dilution	0.25	0.063	0.125	16	2	2	16	2	Penis/Urethra	
+18.001	Type XVIII Non-Mosaic	2007-06-08	Canada		M	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	2	0.032	0.063	16	8	256	16	64		
+19.001	Type XIX Non-Mosaic	1999-01-01	Canada		M	Negative	EryR/TetR	Agar Dilution	2	0.008	0.016	0.008	8	0.5	32	2		
+19.002	penA Type XIX NonMosaic	2018-03-01	Sweden		U	Unknown												
+19.003	penA Type XIX NonMosaic	2018-04-26	Sweden		U	Unknown												
+21.001	Type XXI Non-Mosaic	2008-06-23	Canada	43	F	Negative	CipR	Agar Dilution	4	0.032	0.032	16	8	1	16	4		
+22.001	Type XXII Non-Mosaic	0000-00-00		19	U	Unknown		Agar Dilution	0.5	0.032	0.016	0.004	4	1	32	1		ATCC49226
+22.002	Type XXII Non-Mosaic	2010-01-01	Canada	25	F	Negative		Agar Dilution	0.125	0.004	0.004	0.004	0.5	0.25	16	0.25		
+22.003	Type XXII Non-Mosaic	2010-10-15	Canada	4	F	Negative		Agar Dilution	0.125	0.004	0.004	0.004	0.5	0.25	16	0.25		
+22.004	Type XXII Non-Mosaic	2011-04-26	Canada		F	Negative	EryR/PenR	Agar Dilution	4	0.008	0.008	0.004	64	0.5	16	1	Cervix	
+22.005	Type XXII Non-Mosaic	2010-05-13	Canada	21	F	Negative	EryR	Agar Dilution	4	0.008	0.008	0.004	32	0.25	16	1	Cervix	
+22.006	Type XXII Non-Mosaic	2015-10-15	Canada		U	Negative	S	Agar Dilution	0.125	0.004	0.002	0.004	0.5	0.5	16	1	Urethra	
+22.007	penA Type XXII NonMosaic	2017-01-01			U	Unknown												
+22.008	penA Type XXII NonMosaic	2017-10-26			U	Unknown												
+22.009	penA Type XXII NonMosaic	2017-11-03	Unknown		U	Unknown												
+22.010	penA Type XXII NonMosaic	2017-11-08	Unknown		U	Unknown												
+22.011	Type XXII NonMosaic	2018-01-15	Sweden		U	Unknown												
+22.012	Type XXII NonMosaic	2018-01-15	Sweden		U	Unknown												
+27.001	Type XVII Mosaic	2006-09-27	Canada		M	Negative	CeDS/CipR/CxDS/PenR/TetR	Agar Dilution	0.125	0.25	0.125	2	0.5	4	16	2	Penis/Urethra	
+34.001	Type XXXIV Mosaic	2005-11-24	Canada		M	Negative	CipR	Agar Dilution	0.5	0.063	0.032	16	2	1	32	4		
+34.002	Type XXXIV Mosaic	2008-10-22	Canada	22	M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.25	0.125	16	2	2	16	4		
+34.003	Type XXXIV Mosaic	2006-01-01	Canada		F	Negative	CipR/TetR	Agar Dilution	0.25	0.063	0.063	8	1	1	32	4		
+34.004	Type XXXIV Mosaic	2010-01-01	Canada	62	M	Negative	CipR/CMRNG/CxDS	Agar Dilution	0.5	0.125	0.125	16	2	2	16	4		
+34.005	Type XXXIV Mosaic	0000-00-00	Canada		U	Unknown												GenBank No HQ204552.1, previously penA Type XXXVII
+34.006	Type XXXIV Mosaic	0000-00-00	Canada	29	M	Negative	CipR	Agar Dilution	0.25	0.063	0.016	4	1	0.25	32	1	Rectal	
+34.007	Type XXXIV Mosaic	2015-01-01	Canada	45	M	Unknown		Agar Dilution	0.25	0.125	0.032	2	2	128	32	32	Pharyngeal	
+34.008	penA Type XXXIV Mosaic	2017-10-26	Spain		U	Unknown												
+34.009	penA Type XXXIV Mosaic	2017-11-03	Unknown		U	Unknown												
+34.010	penA Type XXXIV Mosaic	2017-11-08	Unknown		U	Unknown												
+34.011	Type XXXIV Mosaic	2018-01-18	Sweden		U	Unknown												
+34.013	penA Type XXXIV; Mosaic	2018-03-01			U	Unknown												
+35.001	Type XXXV Mosaic	2008-10-15	Canada	28	M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.032	0.032	16	2	4	16	4		
+35.002	Type XXXV Mosaic	2010-08-11	Canada	25	M	Negative	CipR/CMRNG	Agar Dilution	1	0.008	0.008	16	4	2	32	4		
+35.003	Type XXXV Mosaic	0000-00-00	Canada		U	Unknown												GenBank No HQ204565.1, previously penA Type XXXVIII
+37.001	Type 37 Mosaic	2011-01-01	Japan		F	Unknown		E-Test	1	8	4	32	2	4	16	4	Pharynx	H041
+38.001	Type 38 Mosaic	2015-01-21	Canada	21	M	Negative	TRNG	Agar Dilution	0	0	0.001	0.004	0.5	0.25	32	32	rectal	39326
+39.001	Type 39 Semi-Mosaic	2008-06-26	Canada	23	F		CipR	Agar Dilution	0.063	0.032	0.125	4	0.063	0.5	16	1		JF893455
+40.001	Type 40 Non-Mosaic	2001-01-15	Canada	14	F	Negative		Agar Dilution	0.063	0.008	0.004	0.004	0.125	0.063	16	0.125		
+41.001	Type 41 Non-Mosaic	2010-01-06	Canada	20	F	Negative	CipR/CMRNG	Agar Dilution	0.25	0.016	0.032	8	2	2	16	2		
+41.002	Type 41 Non-Mosaic	2010-01-01	Canada	35	F	Negative	CipR/CMRNG	Agar Dilution	1	0.016	0.063	16	4	2	32	4		
+42.001	Type 42 Mosaic	2012-01-01	France			Negative		Agar Dilution	0.5	4	2	16	2	2	32	4		France F89
+43.001	Type 43 Non-Mosaic	2012-01-01	Canada	64	M	Negative	CipR/CMRNG/TRNG	Agar Dilution	0.063	0.063	0.063	16	2	2	16	64		
+43.002	Type 43 Non-Mosaic	2006-03-01	Canada		M	Positive	CipR/CxDS/PPNG/TRNG	Agar Dilution	0.25	0.063	0.125	1	1	128	16	128	Penis/Urethra	
+43.003	penA Type 43 NonMosaic	2017-11-02	Unknown		U	Unknown												
+44.001	Type 44 Non-Mosaic	2014-01-04	Canada		M	Negative	CipR	Agar Dilution	0.5	0.063	0.032	8	2	1	32	4	Rectum	
+44.002	penA Type 44 NonMosaic	2017-11-08	Unknown		U	Unknown												
+44.003	penA Type 44; NonMosaic	2018-03-01	Sweden		U	Unknown												
+45.001	Type 45 Non-Mosaic	2014-01-08	Canada		M	Negative		Agar Dilution	0.125	0.004	0.002	0.004	0.5	0.125	32	0.5	Penis/Urethra	
+46.001	Type 46 Non-Mosaic	1989-01-01	Canada	34	M	Negative	CMRNG/CxDS	Agar Dilution	0.5	0.125	0.125	0.032	4	16	32	8	Urethra	
+47.001	Type 47 Semi-Mosaic	2007-07-31	Canada	46	M	Negative	EryR/TetR	Agar Dilution	8	0.032	0.008	0.004	64	0.5	32	2	Penis/Urethra	
+48.001	Type 48 Non-Mosaic	2010-01-06	Canada	23	F	Negative		Agar Dilution	0.125	0.008	0.004	0.004	0.5	0.5	16	1		
+49.001	Type 49 Non-Mosaic	2014-01-01	Canada	20	M	Negative	CipR/EryR/TetR	Agar Dilution	2	0.032	0.016	16	4	0.5	32	4	Pharynx	
+50.001	Type 50 Non-Mosaic	2008-10-23	Canada	35	M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.125	0.125	16	2	8	32	2		
+51.001	Type 51 Mosaic	2008-10-29	Canada	38	M	Negative	CipR	Agar Dilution	0.5	0.25	0.125	16	2	1	32	4		
+52.001	Type 52 Mosaic	2010-01-01	Canada	38	M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.125	0.063	16	2	2	16	4		
+53.001	Type 53 Mosaic	2011-01-01	Canada	28	M	Negative	CeDS/CipR/CMRNG/CxDS	Agar Dilution	0.5	0.25	0.125	16	2	2	32	4		
+53.002	Type 53 Mosaic	2012-01-01	Canada	23	M	Negative	CipR/CMRNG/CxDS	Agar Dilution	0.063	0.125	0.125	16	2	4	32	4		
+54.001	Type 54 Non-Mosaic	2011-01-01	Canada	62	M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.125	0.063	8	2	2	32	4		
+55.001	Type 55 Mosaic	2011-01-01	Canada	34	M	Negative	CeDS/CipR/CMRNG/CxDS	Agar Dilution	0.5	0.25	0.125	16	4	4	32	4		
+56.001	Type 56 Non-Mosaic	2012-01-01	Canada	26	M	Negative	CipR/CMRNG/CxDS	Agar Dilution	0.063	0.063	0.125	8	2	2	32	4		
+57.001	Type 57 Non-Mosaic	2012-01-01	Canada	18	M	Negative	CipR/CMRNG	Agar Dilution	0.063	0.063	0.063	8	2	4	32	4		
+58.001	Type 58 Mosaic	2012-01-01	Canada	72	M	Negative	CipR/CMRNG	Agar Dilution	8	0.063	0.063	8	64	2	16	4	Penis/Urethra	
+59.001	Type 59 Mosaic	2015-01-01	Japan		M			Agar Dilution	0.5	2	0.5	0	0	2	32	1	Penis/Urethra	GU140106
+60.001	Type 60 Mosaic	2015-01-01	Japan	20	M	Unknown	PPNG	E-Test	0.25	1	0.5	32	0	0	8	0	Isolated from urethra.	FC428, GenBank LC113953
+61.001	Type 61 Non-Mosaic	0000-00-00			U	Unknown		Agar Dilution	2	0.03	0.03	0.015	0	2	0	2		D101E, CDC reference strain 193
+62.001	Type 62 Mosaic	2016-10-06	USA		U	Unknown												
+63.001	Type 63 Mosaic	2016-10-13	USA		U	Unknown												
+64.001	Type 64 Mosaic	2010-01-01	France		U	Unknown		Agar Dilution	1	2	1	>32	2	1	16	4		
+65.001	Type 65 Semi Mosaic		USA		U	Unknown												
+66.001	PenA Type 66 NonMosaic	2017-10-23	Spain		U	Unknown												
+67.001	penA Type 67 Mosaic	2017-10-26			U	Unknown												
+68.001	penA Type 68 NonMosaic	2017-11-03	Unknown		U	Unknown												
+69.001	penA Type 69 NonMosaic	2017-11-03	Unknown		U	Unknown												
+69.002	penA Type 69 NonMosaic	2017-11-08	Unknown		U	Unknown												
+69.003	penA Type 69; NonMosaic	2018-03-01	Sweden		U	Unknown												
+70.001	penA Type 70 NonMosaic	2017-11-06	Unknown		U	Unknown												
+71.001	penA Type 71 Mosaic	2017-11-06	Unknown		U	Unknown												
+72.001	penA Type 72 Mosaic	2017-11-06	Unknown		U	Unknown												
+73.001	penA Type 73 SemiMosaic	2017-11-06	Unknown		U	Unknown												
+74.001	penA Type 74 Mosaic	2017-11-06	Unknown		U	Unknown												
+75.001	penA Type 75 Mosaic	2017-11-08	Unknown		U	Unknown												
+76.001	penA Type 76 NonMosaic	2017-11-08	Unknown		U	Unknown												
+77.001	penA Type 77 NonMosaic	2017-11-08	Unknown		U	Unknown												
+78.001	penA Type 78 SemiMosaic	2017-11-08	Unknown		U	Unknown												
+79.001	penA Type 79 NonMosaic	2017-11-08	Unknown		U	Unknown												
+79.002	penA Type 79 NonMosaic	2017-11-08	Unknown		U	Unknown												
+80.001	penA Type 80 SemiMosaic	2017-11-08	Unknown		U	Unknown												
+81.001	penA Type 81 SemiMosaic	2017-11-08	Unknown		U	Unknown												
+82.001	penA Type 82 NonMosaic	2017-11-08	Unknown		U	Unknown												
+83.001	penA Type 83 NonMosaic	2017-11-08	Unknown		U	Unknown												T484S
+84.001	penA Type 84; NonMosaic	2018-01-11	Sweden		U	Unknown												
+85.001	Type 85	2018-01-19	Sweden		U	Unknown												
+86.001	Type 86 NonMosaic	2018-01-19	Sweden		U	Unknown												
+87.001	Type 87 NonMosaic	2018-01-19	Sweden		U	Unknown												
+88.001	Type 88 NonMosaic	2018-01-23	Sweden		U	Unknown												
+89.001	penA Type 89; SemiMosaic	2018-03-01	Sweden		U	Unknown												
+90.001	penA Type 90; NonMosaic	2018-03-01	Sweden		U	Unknown												

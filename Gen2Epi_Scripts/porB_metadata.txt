@@ -1,0 +1,40 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+0	Wild Type	2001-01-15	Canada	14	F	Negative		Agar Dilution	0.063	0.008	0.004	0.004	0.125	0.063	16	0.125		
+1	Wild Type	2001-01-01	Canada		M	Negative		Agar Dilution	0.125	0.004	0.002	0.004	0.5	0.063	16	1	Penis/Urethra	
+2	A121D	0000-00-00	USA			Negative		Agar Dilution	2	<0.016	0.004	0.004	4	0.25	16	0.5		
+3	A121S	1998-01-01	Canada		M	Negative		Agar Dilution	4	0.016	0.008	0.008	32	1	32	2		
+4	G120D	2002-07-18	Canada		M	Negative		Agar Dilution	2	0.016	0.032	0.125	16	1	32	2	Penis/Urethra	
+5	G120D, A121D	2006-10-01	Canada		F	Negative	CMRNG	Agar Dilution	16	0.008	0.008	0.004	>=64	2	16	64		
+6	G120D, A121N	1999-01-01	Canada		M	Negative	EryR/TetR	Agar Dilution	2	0.008	0.016	0.008	8	0.5	32	2		
+7	G120K, A121D	2014-02-24	Canada		M	Negative	CMRNG	Agar Dilution	0.5	0.032	0.032	0.016	4	4	32	4	Rectum	
+8	G120K, A121D	1991-01-01	Canada			Positive	PPNG	Agar Dilution	0.25	0.016	0.032	0.008	1	>32	>1024	1		
+9	G120R, A121D	2012-01-01	Canada	64	M	Negative	CipR/CMRNG/TRNG	Agar Dilution	0.063	0.063	0.063	16	2	2	16	64		
+10	G120K, A121D	2007-08-01	Canada		F	Negative	CxDS/TetR	Agar Dilution	0.25	0.125	0.125	0.016	0.5	1	32	2		
+11	G120K, A121N	2000-12-20	Canada		F	Negative	CeDS/CxDS	Agar Dilution	0.25	0.25	0.125	0.5	1	4	16	4		
+12	G120K, A121G	2001-11-20	Canada		M	Negative	CxDS	Agar Dilution	0.25	0.032	0.125	0.25	1	2	32	2		
+13	porB1a	2001-01-01	Australia		U	Positive	PPNG	Agar Dilution	0.125	<0.016	0.004	4	0.5	8	16	16		porB1a
+
+14	porB1a	1991-01-01	Canada		U	Negative		Agar Dilution	0.125	<0.016	<0.002	0.004	0.5	0.032	32	0.25		porB1a
+
+15	A120K, A121V	2015-11-17	Canada		U	Negative	TRNG	Agar Dilution	0.125	0.008	0.008	0.004	0.5	0.5	16	32	Urethra	2 codon deletion results in 2 amino acid frame shift;
+16	G120N		USA		U	Unknown		Agar Dilution	1	0.25	0.06	8	0	4	0	8		CDC reference culture 0192
+17	G120N; A121D		USA		U	Unknown												
+19	porB1a		USA		U	Unknown												porB1a
+20	porB1a		USA		U	Unknown												porB1a
+21	G120N, A121D		USA		U	Unknown												
+23	G120D		USA		U	Unknown												
+24	G120N, A121N		USA		U	Unknown												
+26	G120K, A121N		USA		U	Unknown												
+27	A121N		USA		U	Unknown												
+29	G120K, A121N		USA		U	Unknown												
+30	G120D		USA		U	Unknown												
+31	G120N, A121N		USA		U	Unknown												
+33	G120C, A121S		USA		U	Unknown												
+35	A121V		USA		U	Unknown												
+37	G120N, A121G				U	Unknown												
+39	Wild Type		USA		U	Unknown												
+41	porB1a		USA		U	Unknown												porB1a
+42	A121S		USA		U	Unknown												
+43	WT		USA		U	Unknown												
+44	porB1a	2018-01-23	Australia		U	Unknown												porB1a
+45	G120Q, A121N		USA		U	Unknown												

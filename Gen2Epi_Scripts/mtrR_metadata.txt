@@ -1,0 +1,181 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+0	Wild Type	2010-12-08	Canada	35	F	Negative	EryR	Agar Dilution	4	0.008	0.008	0.004	>=64	0.5	16	1	Throat	
+1	-35A Del	1997-01-01	Thialand			Negative	TRNG	Agar Dilution	0.25	<0.016	0.008	0.125	1	0.5	16	32		WHO-G;
+2	-35A Del	2010-07-07	Canada		M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.016	0.032	16	2	4	16	4	Penis/Urethra	
+3	Wild Type	0000-00-00			U	Unknown												
+4	Wild Type	2010-10-22	Canada		M	Negative	S	Agar Dilution	0.25	0.008	0.004	0.004	0.5	0.125	32	0.25	Penis/Urethra	
+5	Wild Type	2005-04-29	Canada		F	Negative	S	Agar Dilution	0.063	0.004	0.002	0.004	0.063	0.125	16	0.25	Cervix	
+6	Wild Type	2004-09-22	Canada		M	Negative	S	Agar Dilution	0.063	0.004	0.002	0.004	0.25	0.063	16	0.25	Penis/Urethra	
+7	Wild Type	2001-01-01	Canada		M	Negative	S	Agar Dilution	0.125	0.004	0.002	0.004	0.5	0.063	16	1	Penis/Urethra	
+8	Wild Type	2014-01-08	Canada		M	Negative	S	Agar Dilution	0.125	0.004	0.002	0.004	0.5	0.125	32	0.5	Penis/Urethra	
+9	A39T	2005-12-01	Canada	53	M	Negative	S	Agar Dilution	0.25	0.002	0.001	0.016	0.5	0.032	16	0.25		
+10	A39T	0000-00-00	Unknown															ATCC49226;
+11	A39T	2010-01-01	Canada	25	F	Negative	S	Agar Dilution	0.125	0.004	0.004	0.004	0.5	0.25	16	0.25		
+12	Wild Type	2011-01-01	Canada	24	M	Negative	S	Agar Dilution	0.25	0.004	0.004	0.004	1	0.25	16	1	Penis/Urethra	
+13	Wild Type	2009-12-23	Canada	24	M	Negative	S	Agar Dilution	0.125	0.008	0.008	0.008	0.5	0.25	32	1		
+14		1991-01-01	Canada			Negative		Agar Dilution	0.125	<0.016	<0.002	0.004	0.5	0.032	32	0.25		WHO-F
+15	Wild Type	2005-10-25	Canada	36	M	Negative	S	Agar Dilution	0.125	0.004	0.004	0.008	0.5	0.25	16	1	Penis/Urethra	
+16	-35A Del	2012-10-20	Canada	29	M	Negative	CipR/CMRNG	Agar Dilution	8	0.063	0.063	16	>=64	2	32	4		
+17	Wild Type	2015-06-28	Canada	23	M	Unknown	S	Agar Dilution	0.125	0.008	0.008	0.004	0.5	0.125	16	0.25	Urethra	
+18		2001-01-25	Canada		F	Negative	S	Agar Dilution	0.063	0.001	0.00025	0.063	0.25	0.008	16	0.5	Cervix	
+19	-35A Del, G45D	1992-01-01	Philippines			Positive	PPNG	Agar Dilution	0.25	<0.016	0.012	2	1	8	16	1		WHO-M;
+20	A39T	2001-02-08	Canada		M	Positive	CMRNG/CxDS/PPNG	Agar Dilution	0.5	0.032	0.125	0.032	2	4	32	4		
+21	Wild Type	1998-01-01	Canada		M	Negative	PenR/TRNG	Agar Dilution	0.125	0.063	0.125	0.016	1	4	32	>=128	Urethra	
+22	-35A Del	2008-01-21	Canada	36	F	Negative	CipR/CMRNG	Agar Dilution	16	0.063	0.063	16	>=128	4	16	2		
+23	A39T	2010-04-07	Canada	34	M	Negative	S	Agar Dilution	0.25	0.032	0.016	0.004	1	0.25	16	1		
+24	A39T	2011-05-10	Canada	19	M	Negative	S	Agar Dilution	0.25	0.004	0.004	0.004	1	0.25	16	1		
+25	G45D	1996-01-01	Asia			Negative	CMRNG	Agar Dilution	0.5	0.25	0.125	>32	2	2	16	4		WHO-L;
+26	A39T	2001-01-01	Australia			Positive	PPNG	Agar Dilution	0.125	<0.016	0.004	4	0.5	8	16	16		WHO-N;
+27		2009-03-11	Canada		M	Negative	EryR/TetR	Agar Dilution	2	0.008	0.008	0.008	8	0.5	32	2	Rectum	N. meningiditis-like
+28		2014-07-30	Canada	32	M	Negative	EryR/TetR	Agar Dilution	1	0.008	0.008	0.008	8	0.5	32	2	Penis/Urethra	N. meningiditis-like
+29	Wild Type	2015-04-08	Canada	26	F	Unknown	TetR	Agar Dilution	0.125	0.016	0.008	0.004	1	0.25	16	2	Cervix	
+30		2013-08-07	Canada	35	M	Negative	Probable-CMRNG	Agar Dilution	2	0.016	0.032	0.032	8	1	32	4	Throat	N. meningiditis-like
+31	Wild Type	2013-05-08	Canada	34	M	Negative	EryR	Agar Dilution	2	0.008	0.004	0.008	4	0.25	16	1		
+32		0000-00-00	USA			Negative		Agar Dilution	2	<0.016	0.004	0.004	4	0.25	16	0.5		WHO-P
+33	Wild Type	2007-09-01	Canada		U	Negative	CeDS/CipR/CxDS/TetR	Agar Dilution	0.25	0.5	0.125	64	0.5	1	16	2		
+34	-35A Del	2010-07-13	Canada		M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.032	0.063	8	2	2	32	2	Rectum	
+35	A39T	2010-01-01	Canada	51	M		CMRNG	Agar Dilution	0.25	0.032	0.032	0.016	2	2	32	4	Rectum	
+36	-35A Del, A39T	1996-01-01	Canada		M	Negative	CMRNG	Agar Dilution	0.25	0.125	0.125	0.5	2	2	32	2	Penis/Urethra	
+37	-35A Del, A39T, G45D	1997-01-01	Canada		M	Negative	CipR/CMRNG	Agar Dilution	0.25	0.063	0.125	16	2	2	16	2	Penis/Urethra	
+38	A39T	2013-01-14	Canada		M	Negative	CipR/EryR/TRNG	Agar Dilution	0.5	0.032	0.032	1	2	1	32	32	Penis/Urethra	
+39		2015-11-02	Canada	25	F	Negative	AzR/CipR/Probable-CMRNG	Agar Dilution	2	0.016	0.032	8	8	1	16	4	Cervix	N. meningiditis-like
+40	A39T	2016-02-23	Canada	29	M	Negative	CipR	Agar Dilution	0.25	0.063	0.016	4	1	0.25	32	1	Rectal	
+41	A39T	2015-11-17	Canada		U	Negative	TRNG	Agar Dilution	0.125	0.008	0.008	0.004	0.5	0.5	16	32	Urethra	
+42	A39T	2016-06-16	Canada		U	Negative	S	Agar Dilution	0.25	0.016	0.008	0.008	1	0.5	16	0.5	Rectal	
+43	A39T	2011-10-27	Netherlands	19	F	Unknown		Agar Dilution	0.5	0.008	0.032	0	0	0	0	0	Cervix	
+44			USA		U	Unknown		Agar Dilution	0.5	0.25	0.125	16	0	2	0	4		N. meningiditis-like; CDC reference culture 0186
+45	Wild Type	2016-10-06	USA		U	Unknown												
+46		2016-10-06	USA		U	Unknown												N. meningiditis-like
+47	A39T	2016-10-07	USA		U	Unknown												
+48	Wild Type	2016-10-11	USA		U	Unknown												
+49	A39T	2016-10-12	USA		U	Unknown												
+50	Wild Type	2011-01-01	Sweden		U	Unknown		Agar Dilution	4	<0.016	0.002	0.004	>256	0.125	8	1		WHO-U. T insert at position 19.
+
+51	Wild Type	2010-01-01	France		U	Unknown		Agar Dilution	1	1	1	>32	2	1	16	4		Wild Type; WHO-Y
+
+52	Wild Type		USA		U	Unknown												
+53	A39T,G45D		USA		U	Unknown												
+54	A39T		USA		U	Unknown												
+55	Wild Type		USA		U	Unknown												
+56	MEN		USA		U	Unknown												
+57	Wild Type		USA		U	Unknown												
+58	Wild Type		USA		U	Unknown												
+59	A39T		USA		U	Unknown												
+60	Wild Type		USA		U	Unknown												
+61	A39T		USA		U	Unknown												
+62	A39T		USA		U	Unknown												
+63	-35A Del,A39T		USA		U	Unknown												
+64	-35A Del		USA		U	Unknown												
+65	A39T		USA		U	Unknown												
+66	A39T		USA		U	Unknown												T insert at position 19.
+67	Wild Type		USA		U	Unknown												
+68	A39T		USA		U	Unknown												
+69	Wild Type		USA		U	Unknown												
+70	-35A Del,G45D		USA		U	Unknown												
+71	A39T		USA		U	Unknown												
+72	Wild Type		USA		U	Unknown												Two nucleotide insert -CC- at position 637.
+73	A39T		USA		U	Unknown												
+74	Wild Type		USA		U	Unknown												
+75	Wild Type		USA		U	Unknown												
+76	A39T		USA		U	Unknown												
+77	A39T		USA		U	Unknown												
+78	A39T		USA		U	Unknown												
+79	-35A Del		USA		U	Unknown												
+80	Wild Type		USA		U	Unknown												
+81	Wild Type				U	Unknown												
+82	A39T				U	Unknown												
+83	A39T				U	Unknown												
+84	A39T				U	Unknown												
+85	A39T				U	Unknown												
+86	Wild Type				U	Unknown												
+87	A39T				U	Unknown												
+88	Wild Type																	
+89	A39T																	
+90	Wild Type																	
+91	Wild Type																	
+92	A39T																	
+93	A39T																	
+94	Wild Type																	
+95	-35A Del,A39T																	
+96	A39T																	
+97	A39T																	
+98	Wild Type																	
+99	A39T																	
+101	A39T																	
+102	Wild Type																	
+103	Wild Type																	
+104	Wild Type																	
+105	A39T,G45D																	
+106	Wild Type																	
+107	A39T																	
+108	Wild Type																	
+109	Wild Type																	
+110	-35A Del,A39T																	
+111	-35A Del																	
+112	A39T																	
+113	-35A Del																	
+114	Wild Type																	
+115	A39T																	
+116	A39T																	
+117	Disrupted WHO-P-like promoter				U	Unknown												
+118	-35A Del																	
+119	Wild Type																	
+120	G45D																	
+121	Wild Type																	
+122	A39T																	
+123	A39T																	
+124	A39T																	
+125	A39T																	
+126	A39T																	
+127	Wild Type																	
+128	A39T																	
+129	Wild Type																	
+130	A39T																	
+131	A39T																	
+132	-35A Del; G45D				U	Unknown												
+133	A39T																	
+134	Wild Type																	
+135	A39T																	
+136	Wild Type																	
+137	Wild Type																	
+138	Wild Type																	
+139	Wild Type																	
+140	A39T																	
+141	A39T																	
+142	Wild Type																	
+143	Wild Type																	
+144	A39T; Disrupted WHO like promoter				U	Unknown												
+145	Wild Type																	
+146	Wild Type																	
+147	-35A Del																	
+148	Wild Type																	
+149	A39T																	
+150	A39T																	
+151	Wild Type																	
+152	Wild Type																	
+153	A39T																	
+154	A39T																	
+155	A39T; Disrupted WHO-P like promoter				U	Unknown												
+156	A39T																	
+157	A39T																	
+158	-35A Del; G45D				U	Unknown												
+159	Wild Type																	
+160	Wild Type				U	Unknown												Same sequence as mtrR5, but with TAG stop codon instead of TAA
+161	Wild Type				U	Unknown												Same sequence as mtrR18, but with TAG stop codon instead of TAA
+162	Wild Type	2018-01-18	Sweden		U	Unknown												
+163	A39T	2018-01-23	Sweden		U	Unknown												
+164	A39T	2018-01-23	Sweden		U	Unknown												
+165	Disrupted WHO-P like promoter	2018-01-23	Sweden		U	Unknown												
+166	A39T	2018-03-01	Sweden		U	Unknown												
+167	A39T	2018-03-01	Sweden		U	Unknown												
+168	Wild Type	2018-03-01	Sweden		U	Unknown												
+169	Wild Type	2018-03-01	Sweden		U	Unknown												
+170	Disrupted WHO-P like promoter	2018-03-01	Sweden		U	Unknown												
+171	Wild Type	2018-03-01	Sweden		U	Unknown												
+172	-35A Del	2018-03-01	Sweden		U	Unknown												
+173	Wild Type	2018-03-01	Sweden		U	Unknown												
+174	A39T	2018-03-01	Sweden		U	Unknown												
+175	Wild Type	2018-03-01	Sweden		U	Unknown												
+176	A39T	2018-03-01	Sweden		U	Unknown												
+177	-35A Del	2018-03-01	Sweden		U	Unknown												
+178	A39T	2018-03-21	Sweden		U	Unknown												

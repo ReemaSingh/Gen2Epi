@@ -1,0 +1,70 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+0	Wild Type	0000-00-00	USA		U	Negative		Agar Dilution	2	<0.016	0.004	0.004	4	0.25	16	0.5		WHO-P
+
+1	Wild Type	1997-01-01	Thialand		U	Negative	TRNG	Agar Dilution	0.25	<0.016	0.008	0.125	1	0.5	16	32		WHO-G
+
+2	Wild Type	1998-02-05	Canada		M	Negative	CMRNG	Agar Dilution	2	0.004	0.004	0.008	4	2	32	2	Penis/Urethra	
+3	S87R	1998-02-01	Canada		U	Negative	CipR/CMRNG	Agar Dilution	2	0.016	0.063	32	4	4	32	8		
+4	D86N	1998-09-01	Canada		U	Negative	CipR/CMRNG	Agar Dilution	2	0.032	0.032	16	16	2	32	8	Penis/Urethra	
+5	S87R, S88P	2003-01-01	Japan			Negative	CMRNG	Agar Dilution	0.25	0.5	0.064	>32	1	2	16	2		WHO-K
+6	Wild Type	2004-10-19	Canada	37	M	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	>=512	0.032	0.016	4	>=64	64	16	64	Penis/Urethra	
+7	Wild Type	1991-01-01	Canada		U	Positive	PPNG	Agar Dilution	0.25	0.016	0.032	0.008	1	>32	>1024	1		WHO-O
+
+8	S87N	2008-06-23	Canada	43	F	Negative	CipR	Agar Dilution	4	0.032	0.032	16	8	1	16	4		
+9	D86N	2011-01-01	Canada	62	M	Negative	CipR/CMRNG	Agar Dilution	0.5	0.125	0.063	8	2	2	32	4		
+10	Wild Type	1997-01-01	Canada		M	Negative	CipR/CMRNG	Agar Dilution	0.25	0.063	0.125	16	2	2	16	2	Penis/Urethra	
+11	D86N, S88P	1996-01-01	Asia			Negative	CMRNG	Agar Dilution	0.5	0.25	0.125	>32	2	2	16	4		WHO-L
+12	S87I	2001-01-01	Australia			Positive	PPNG	Agar Dilution	0.125	<0.016	0.004	4	0.5	8	16	16		WHO-N
+13	S87N	2005-01-01	Canada		U	Negative		Agar Dilution	0.25	0.008	0.004	16	2	0.5	32	1		
+14	S87R	2006-01-01	Canada	18	M	Negative	CipR/TetR	Agar Dilution	0.25	0.063	0.063	16	2	2	32	8		
+15	S87N	2013-01-14	Canada		M	Negative	CipR/EryR/TRNG	Agar Dilution	0.5	0.032	0.032	1	2	1	32	32	Penis/Urethra	
+16	S87R	2012-01-01	Canada	42	M	Negative	CeDS/CipR/CMRNG/CxDS	Agar Dilution	0.125	0.25	0.125	16	2	4	32	4		
+17	Wild Type	2015-11-17	Canada		U	Negative	TRNG	Agar Dilution	0.125	0.008	0.008	0.004	0.5	0.5	16	32	Urethra	
+18	D86N	2006-10-10	Netherlands	27	M	Unknown		Agar Dilution	0.25	0.012	0.008	0	0	0	0	0	Tonsil	
+19	Wild Type	2016-10-11	USA		U	Unknown												
+20	S87N	2016-10-12	USA		U	Unknown												
+21	Wild Type	2016-10-13	USA		U	Unknown												
+22	Wild Type		USA		U	Unknown												
+23	S87R		USA		U	Unknown												
+24	S87I		USA		U	Unknown												
+25	S87R		USA		U	Unknown												
+26	S87N		USA		U	Unknown												
+27	Wild Type		USA		U	Unknown												
+28	D86N		USA		U	Unknown												
+29	S88P		USA		U	Unknown												
+30	Wild Type		USA		U	Unknown												
+31	S87N		USA		U	Unknown												
+32	Wild Type		USA		U	Unknown												
+33	S87N		USA		U	Unknown												
+34	Wild Type		USA		U	Unknown												
+35	Wild Type		USA		U	Unknown												
+36	Wild Type		USA		U	Unknown												
+37	Wild Type		USA		U	Unknown												
+38	Wild Type		USA		U	Unknown												
+39	S87R,S88P		USA		U	Unknown												
+40	Wild Type		USA		U	Unknown												
+41	S88P		USA		U	Unknown												
+42	Wild Type		USA		U	Unknown												
+43	S87N		USA		U	Unknown												
+44	Wild Type		USA		U	Unknown												
+45	S87I		USA		U	Unknown												
+46	Wild Type		USA		U	Unknown												
+47	S87R		USA		U	Unknown												
+48	S87I		USA		U	Unknown												
+49	Wild Type		USA		U	Unknown												
+50	Wild Type		USA		U	Unknown												
+51	S88P		USA		U	Unknown												
+52	Wild Type		USA		U	Unknown												
+53	S87C		USA		U	Unknown												
+54	Wild Type		USA		U	Unknown												
+55	S87N		USA		U	Unknown												
+56	Wild Type		USA		U	Unknown												
+57	Wild Type		USA		U	Unknown												
+58	Wild Type		USA		U	Unknown												
+59	D86N,S87I		USA		U	Unknown												
+60	Wild Type		USA		U	Unknown												
+61	S88P	2018-01-19	Sweden		U	Unknown												
+62	D86N	2018-01-19	Sweden		U	Unknown												
+63	Wild Type	2018-03-01	Sweden		U	Unknown												
+64	S88P	2018-03-01	Sweden		U	Unknown												
+65	S87N	2018-03-01	Sweden		U	Unknown												

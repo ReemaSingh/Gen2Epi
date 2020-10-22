@@ -1,0 +1,6 @@
+library(methods)
+library(dplyr)
+Genstat <- read.table(file="GenomeStats.txt",sep="\t",header=T)
+Genstat1 <- read.table(file="GenomeStats1.txt",sep="\t",header=T)
+com <- inner_join(Genstat,Genstat1)
+write.table(com,file="GenomeStateAll.txt",sep="\t",col.names=TRUE,row.names=FALSE,quote=F)
