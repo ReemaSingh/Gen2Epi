@@ -1,0 +1,21 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+0	Wild Type	1991-01-01	Canada		U	Negative		Agar Dilution	0.125	<0.016	<0.002	0.004	0.5	0.032	32	0.25		WHO-F
+1	A2059G	2012-12-10	Canada		M	Negative	CipR/CMRNG	Agar Dilution	>=512	0.016	0.032	32	>=64	4	16	2	Rectum	
+2	C2611T	1998-01-01	Canada		M	Negative		Agar Dilution	4	0.016	0.008	0.008	32	1	32	2		
+3	Wild Type	2001-10-04	Canada	18	M	Negative	CMRNG	Agar Dilution	2	0.032	0.063	0.032	8	2	32	4		
+4	Wild Type	2006-06-01	Canada	43	M	Negative	CipR	Agar Dilution	0.5	0.016	0.032	4	2	1	16	2		
+5	Wild Type	2011-04-01	Canada	44	M	Negative	CipR/CMRNG	Agar Dilution	16	0.032	0.032	16	>=64	4	16	4		
+6	Wild Type	2013-12-31	Canada		M	Negative	TRNG	Agar Dilution	0.125	0.008	0.004	0.004	0.5	0.25	16	32	Rectum	
+7	C2611T	2013-08-25	Canada	48	M	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	4	0.008	0.008	16	>=64	128	16	64		
+8	Wild Type	2011-09-09	Netherlands	26	M	Unknown		Agar Dilution	1	0.023	0.016	0	0	0	0	0	Urethra	
+9	Wild Type	2011-10-05	Netherlands	31	M	Unknown		Agar Dilution	0.38	0.002	0.008	0	0	0	0	0	Urethra	
+10	Wild Type	2016-10-11	USA		U	Unknown												
+11	Wild Type		USA		U	Unknown												
+12	Wild Type		USA		U	Unknown												
+13	Wild Type		USA		U	Unknown												
+14	Wild Type		USA		U	Unknown												
+15	Wild Type		USA		U	Unknown												
+16	C2611T		USA		U	Unknown												
+17	Wild Type		USA		U	Unknown												
+18	Wild Type	2018-03-01	Sweden		U	Unknown												
+19	Wild Type	2018-03-01			U	Unknown												

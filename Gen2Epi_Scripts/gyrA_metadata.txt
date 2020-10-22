@@ -1,0 +1,26 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+0	Wild Type	0000-00-00	USA		U	Negative		Agar Dilution	2	<0.016	0.004	0.004	4	0.25	16	0.5		WHO-P
+
+1	S91F, D95G	1992-01-01	Philippines			Positive	PPNG	Agar Dilution	0.25	<0.016	0.012	2	1	8	16	1		WHO-M
+2	S91F, D95N	1996-01-01	Asia			Negative	CMRNG	Agar Dilution	0.5	0.25	0.125	>32	2	2	16	4		WHO-L
+3	S91Y	1996-01-01	Canada		M	Negative	CMRNG	Agar Dilution	0.25	0.125	0.125	0.5	2	2	32	2	Penis/Urethra	
+4	Wild Type	2001-01-15	Canada	14	F	Negative		Agar Dilution	0.063	0.008	0.004	0.004	0.125	0.063	16	0.125		
+5	S91F	1997-01-01	Thialand			Negative	TRNG	Agar Dilution	0.25	<0.016	0.008	0.125	1	0.5	16	32		WHO-G
+6	Wild Type	2004-09-22	Canada		M	Negative		Agar Dilution	0.063	0.004	0.002	0.004	0.25	0.063	16	0.25	Penis/Urethra	
+7	S91F, D95A	2004-10-19	Canada	37	M	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	>=512	0.032	0.016	4	>=64	64	16	64	Penis/Urethra	
+8	Wild Type	2012-01-01	Canada	36	M	Negative		Agar Dilution	0.25	0.004	0.002	0.004	1	0.125	32	1	Penis/Urethra	
+9	S91F	2006-09-27	Canada		M	Negative	CeDS/CipR/CxDS/PenR/TetR	Agar Dilution	0.125	0.25	0.125	2	0.5	4	16	2	Penis/Urethra	
+10	Wild Type	2016-06-16	Canada		U	Negative	S	Agar Dilution	0.25	0.016	0.008	0.008	1	0.5	16	0.5	Rectal	
+11	S91T		USA		U	Unknown												
+12	D95N		USA		U	Unknown												
+13	S91T		USA		U	Unknown												
+14	D95N		USA		U	Unknown												
+15	S91F,D95A		USA		U	Unknown												
+16	S91F,D95Y		USA		U	Unknown												
+17	S91Y		USA		U	Unknown												
+18	S91F,D95G		USA		U	Unknown												Premature STOP codon at position 2.
+19	Wild type		USA		U	Unknown												
+20	Wild Type		USA		U	Unknown												
+21	S91F,D95A		USA		U	Unknown												
+22	D95G	2018-01-11	Sweden		U	Unknown												
+23	D91F D95G	2018-04-26	Sweden		U	Unknown												
