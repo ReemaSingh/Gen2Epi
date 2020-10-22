@@ -52,11 +52,17 @@ ftp://www.cs.usask.ca/pub/combi
   
   	“source .bashrc” 
 
-4. Copy the test dataset in the current working directory under
+4. Open the terminal and use the following commands
+
+        "git clone https://github.com/DillonLab/Gen2Epi.git"
+
+        "cd Gen2Epi"
+
+5. Copy the test dataset in the current working directory under
 
         “/home/user/Desktop/Test_DATA”
         
-5. Copy the Gen2Epi_Scripts folder in your current working directory.
+6. Copy the Gen2Epi_Scripts folder in your current working directory.
 
 # How to use
 
@@ -106,6 +112,7 @@ If you have thousands of samples then the input file in the above-mentioned form
         “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Chr_Scaffolds MLST MLST-Genes.fasta MLST_alleles.fasta pubMLST_profile.txt”
 
         Please Note: In case you encounter “BLAST database index” error then make sure to build the blast database for “MLST-Genes.fasta” using the following command:
+        “makeblastdb –in MLST-Genes.fasta –db nucl”
         
      c. NG-MAST
      
@@ -116,8 +123,6 @@ If you have thousands of samples then the input file in the above-mentioned form
         “perl TetRes.pl rpsJ.fasta Chr_Scaffolds/All_Sequences TetResOut”
         “perl SeqProt.pl TetResOut”
 
-
-“makeblastdb –in MLST-Genes.fasta –db nucl”
 
 # Contacts
 
