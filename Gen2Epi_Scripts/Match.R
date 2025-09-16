@@ -1,3 +1,8 @@
+#################################################
+# Written by Dr. Reema Singh #
+# Final Release: 2018 #
+#################################################
+
 library(methods)
 library(dplyr)
 Ngstar <- read.table(file="NgStarRes.txt",sep="\t",header=F)  ####### Reading output from NG-STAR search
