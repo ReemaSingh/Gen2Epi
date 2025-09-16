@@ -1,3 +1,7 @@
+#################################################
+# Written by Dr. Reema Singh #
+# Final Release: 2018 #
+#################################################
 library(methods)
 library(dplyr)
 Genstat <- read.table(file="GenomeStats.txt",sep="\t",header=T)
